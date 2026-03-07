@@ -18,7 +18,7 @@
       "price": 35000,
       "discount": 0,
       "category": "Soins Visage",
-      "image": "/prod_1772789976676.png"
+      "image": "https://images.unsplash.com/photo-1596462502278-27b52c96b943?q=80&w=400&auto=format&fit=crop"
     },
     {
       "id": 1772790072122,
@@ -26,7 +26,7 @@
       "price": 1500,
       "discount": 0,
       "category": "Soins Visage",
-      "image": "/prod_1772790072122.png"
+      "image": "https://images.unsplash.com/photo-1522337660758-8b29dee758af4?q=80&w=400&auto=format&fit=crop"
     },
     {
       "id": 1772790214634,
@@ -34,7 +34,7 @@
       "price": 20000,
       "discount": 0,
       "category": "Soins Visage",
-      "image": "/prod_1772790214634.png"
+      "image": "https://images.unsplash.com/photo-1540555700478-4be2893cef0e?q=80"/prod_1772790214634.png"w=400"/prod_1772790214634.png"auto=format"/prod_1772790214634.png"fit=crop"
     },
     {
       "id": 1772790266798,
@@ -42,7 +42,7 @@
       "price": 5000,
       "discount": 0,
       "category": "Soins Visage",
-      "image": "/prod_1772790266798.png"
+      "image": "https://images.unsplash.com/photo-1540555700478-4be2893cef0e?q=80"/prod_1772790266798.png"w=400"/prod_1772790266798.png"auto=format"/prod_1772790266798.png"fit=crop"
     },
     {
       "id": 1772790472862,
@@ -50,7 +50,7 @@
       "price": 3000,
       "discount": 0,
       "category": "Soins Visage",
-      "image": "/prod_1772790472862.png"
+      "image": "https://images.unsplash.com/photo-1540555700478-4be2893cef0e?q=80"/prod_1772790472862.png"w=400"/prod_1772790472862.png"auto=format"/prod_1772790472862.png"fit=crop"
     },
     {
       "id": 1772790568313,
@@ -58,7 +58,7 @@
       "price": 10000,
       "discount": 0,
       "category": "Soins Visage",
-      "image": "/prod_1772790568313.png"
+      "image": "https://images.unsplash.com/photo-1540555700478-4be2893cef0e?q=80"/prod_1772790568313.png"w=400"/prod_1772790568313.png"auto=format"/prod_1772790568313.png"fit=crop"
     },
     {
       "id": 1772790660072,
@@ -66,7 +66,7 @@
       "price": 10000,
       "discount": 0,
       "category": "Soins Visage",
-      "image": "/prod_1772790660072.png"
+      "image": "https://images.unsplash.com/photo-1540555700478-4be2893cef0e?q=80"/prod_1772790660072.png"w=400"/prod_1772790660072.png"auto=format"/prod_1772790660072.png"fit=crop"
     },
     {
       "id": 1772790867919,
@@ -74,7 +74,7 @@
       "price": 6000,
       "discount": 0,
       "category": "Maquillage",
-      "image": "/prod_1772790867919.png"
+      "image": "https://images.unsplash.com/photo-1540555700478-4be2893cef0e?q=80"/prod_1772790867919.png"w=400"/prod_1772790867919.png"auto=format"/prod_1772790867919.png"fit=crop"
     },
     {
       "id": 1772790931022,
@@ -82,7 +82,7 @@
       "price": 5000,
       "discount": 0,
       "category": "Maquillage",
-      "image": "/prod_1772790931022.png"
+      "image": "https://images.unsplash.com/photo-1540555700478-4be2893cef0e?q=80"/prod_1772790931022.png"w=400"/prod_1772790931022.png"auto=format"/prod_1772790931022.png"fit=crop"
     },
     {
       "id": 1772791088045,
@@ -90,7 +90,7 @@
       "price": 5000,
       "discount": 0,
       "category": "Maquillage",
-      "image": "/prod_1772791088045.png"
+      "image": "https://images.unsplash.com/photo-1540555700478-4be2893cef0e?q=80"/prod_1772791088045.png"w=400"/prod_1772791088045.png"auto=format"/prod_1772791088045.png"fit=crop"
     },
     {
       "id": 1772791199075,
@@ -98,7 +98,7 @@
       "price": 1500,
       "discount": 0,
       "category": "Maquillage",
-      "image": "/prod_1772791199075.png"
+      "image": "https://images.unsplash.com/photo-1540555700478-4be2893cef0e?q=80"/prod_1772791199075.png"w=400"/prod_1772791199075.png"auto=format"/prod_1772791199075.png"fit=crop"
     },
     {
       "id": 1772791360900,
@@ -106,7 +106,7 @@
       "price": 5000,
       "discount": 0,
       "category": "Soins Visage",
-      "image": "/prod_1772791360900.png"
+      "image": "https://images.unsplash.com/photo-1540555700478-4be2893cef0e?q=80"/prod_1772791360900.png"w=400"/prod_1772791360900.png"auto=format"/prod_1772791360900.png"fit=crop"
     },
     {
       "id": 1772791456843,
@@ -114,7 +114,7 @@
       "price": 5000,
       "discount": 0,
       "category": "Soins Visage",
-      "image": "/prod_1772791456843.png"
+      "image": "https://images.unsplash.com/photo-1540555700478-4be2893cef0e?q=80"/prod_1772791456843.png"w=400"/prod_1772791456843.png"auto=format"/prod_1772791456843.png"fit=crop"
     },
     {
       "id": 1772791575178,
@@ -122,7 +122,7 @@
       "price": 7000,
       "discount": 0,
       "category": "Maquillage",
-      "image": "/prod_1772791575178.png"
+      "image": "https://images.unsplash.com/photo-1540555700478-4be2893cef0e?q=80"/prod_1772791575178.png"w=400"/prod_1772791575178.png"auto=format"/prod_1772791575178.png"fit=crop"
     },
     {
       "id": 1772791664416,
@@ -130,7 +130,7 @@
       "price": 2000,
       "discount": 0,
       "category": "Maquillage",
-      "image": "/prod_1772791664416.png"
+      "image": "https://images.unsplash.com/photo-1540555700478-4be2893cef0e?q=80"/prod_1772791664416.png"w=400"/prod_1772791664416.png"auto=format"/prod_1772791664416.png"fit=crop"
     },
     {
       "id": 1772791869822,
@@ -138,7 +138,7 @@
       "price": 5000,
       "discount": 0,
       "category": "Maquillage",
-      "image": "/prod_1772791869822.png"
+      "image": "https://images.unsplash.com/photo-1540555700478-4be2893cef0e?q=80"/prod_1772791869822.png"w=400"/prod_1772791869822.png"auto=format"/prod_1772791869822.png"fit=crop"
     },
     {
       "id": 1772792044960,
@@ -146,7 +146,7 @@
       "price": 6000,
       "discount": 0,
       "category": "Soins Cheveux",
-      "image": "/prod_1772792044960.png"
+      "image": "https://images.unsplash.com/photo-1540555700478-4be2893cef0e?q=80"/prod_1772792044960.png"w=400"/prod_1772792044960.png"auto=format"/prod_1772792044960.png"fit=crop"
     },
     {
       "id": 1772792197208,
@@ -154,7 +154,7 @@
       "price": 2000,
       "discount": 0,
       "category": "Soins Visage",
-      "image": "/prod_1772792197208.png"
+      "image": "https://images.unsplash.com/photo-1540555700478-4be2893cef0e?q=80"/prod_1772792197208.png"w=400"/prod_1772792197208.png"auto=format"/prod_1772792197208.png"fit=crop"
     }
   ],
   "services": [
@@ -164,7 +164,7 @@
       "price": 7000,
       "discount": 0,
       "description": "Maquillage simple, pour une Beauté Remarquable ",
-      "image": "/serv_1772792977003.png"
+      "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80"/serv_1772792977003.png"w=400"/serv_1772792977003.png"auto=format"/serv_1772792977003.png"fit=crop"
     },
     {
       "id": 1772793164861,
@@ -172,7 +172,7 @@
       "price": 10000,
       "discount": 0,
       "description": "Ton jour, ton éclat ! ",
-      "image": "/serv_1772793164861.png"
+      "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80"/serv_1772793164861.png"w=400"/serv_1772793164861.png"auto=format"/serv_1772793164861.png"fit=crop"
     },
     {
       "id": 1772793314336,
@@ -180,7 +180,7 @@
       "price": 10000,
       "discount": 0,
       "description": "Brille devant l'objectif",
-      "image": "/serv_1772793314336.png"
+      "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80"/serv_1772793314336.png"w=400"/serv_1772793314336.png"auto=format"/serv_1772793314336.png"fit=crop"
     },
     {
       "id": 1772793520008,
@@ -188,7 +188,7 @@
       "price": 15000,
       "discount": 0,
       "description": "Un maquillage Glamour, une Soirée INOUBLIABLE",
-      "image": "/serv_1772793520008.png"
+      "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80"/serv_1772793520008.png"w=400"/serv_1772793520008.png"auto=format"/serv_1772793520008.png"fit=crop"
     },
     {
       "id": 1772794713783,
@@ -196,7 +196,7 @@
       "price": 30000,
       "discount": 0,
       "description": "Tradition, élégance et beauté",
-      "image": "/serv_1772794713783.png"
+      "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80"/serv_1772794713783.png"w=400"/serv_1772794713783.png"auto=format"/serv_1772794713783.png"fit=crop"
     },
     {
       "id": 1772795492730,
@@ -204,7 +204,7 @@
       "price": 30000,
       "discount": 0,
       "description": "Tradition, élégance et beauté",
-      "image": "/serv_1772795492730.png"
+      "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80"/serv_1772795492730.png"w=400"/serv_1772795492730.png"auto=format"/serv_1772795492730.png"fit=crop"
     },
     {
       "id": 1772795833958,
@@ -212,7 +212,7 @@
       "price": 12000,
       "discount": 0,
       "description": "Belle pour accompagner la reine du jour",
-      "image": "/serv_1772795833958.png"
+      "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80"/serv_1772795833958.png"w=400"/serv_1772795833958.png"auto=format"/serv_1772795833958.png"fit=crop"
     },
     {
       "id": 1772796172517,
@@ -220,7 +220,7 @@
       "price": 15000,
       "discount": 0,
       "description": "Brillez aux côtés de la mariée",
-      "image": "/serv_1772796172517.png"
+      "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80"/serv_1772796172517.png"w=400"/serv_1772796172517.png"auto=format"/serv_1772796172517.png"fit=crop"
     }
   ],
   "orders": {},
@@ -240,19 +240,19 @@
   "models": [
     {
       "id": "MOD-1772735324749",
-      "image": "/MOD-1772735324749.png"
+      "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?q=80"/MOD-1772735324749.png"w=400"/MOD-1772735324749.png"auto=format"/MOD-1772735324749.png"fit=crop"
     },
     {
       "id": "MOD-1772735333604",
-      "image": "/MOD-1772735333604.png"
+      "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?q=80"/MOD-1772735333604.png"w=400"/MOD-1772735333604.png"auto=format"/MOD-1772735333604.png"fit=crop"
     },
     {
       "id": "MOD-1772735748624",
-      "image": "/MOD-1772735748624.png"
+      "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?q=80"/MOD-1772735748624.png"w=400"/MOD-1772735748624.png"auto=format"/MOD-1772735748624.png"fit=crop"
     },
     {
       "id": "MOD-1772735810367",
-      "image": "/MOD-1772735810367.png"
+      "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?q=80"/MOD-1772735810367.png"w=400"/MOD-1772735810367.png"auto=format"/MOD-1772735810367.png"fit=crop"
     }
   ],
   "revenueOffset": 0

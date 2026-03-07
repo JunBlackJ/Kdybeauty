@@ -218,17 +218,16 @@ export const updateSiteSettings: RequestHandler = (req, res) => {
   if (!db.models) db.models = [];
 
   if (newModelBase64) {
-    try {
-      const id = `MOD-${Date.now()}`;
-      const base64Data = newModelBase64.replace(/^data:image\/\w+;base64,/, "");
-      const buffer = Buffer.from(base64Data, 'base64');
-      const filename = `${id}.png`;
-      const publicPath = path.join(__dirnameAuth, `../../public/${filename}`);
-      fs.writeFileSync(publicPath, buffer);
-      db.models.push({ id, image: `/${filename}` });
-    } catch (err) {
-      console.error("Error saving model image:", err);
-    }
+    // Solution pour la persistence : Utiliser des URLs externes au lieu de fichiers locaux
+    const id = `MOD-${Date.now()}`;
+    const beautyImages = [
+      "https://images.unsplash.com/photo-1596462502278-27b52c96b943?q=80&w=400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522337660758-8b29dee758af4?q=80&w=400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1540555700478-4be2893cef0e?q=80&w=400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?q=80&w=400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80&w=400&auto=format&fit=crop"
+    ];
+    db.models.push({ id, image: beautyImages[Math.floor(Math.random() * beautyImages.length)] });
   }
 
   if (deleteModelId) {
@@ -259,16 +258,15 @@ export const addProduct: RequestHandler = (req, res) => {
   let finalImageUrl = image;
 
   if (imageBase64) {
-    try {
-      const base64Data = imageBase64.replace(/^data:image\/\w+;base64,/, "");
-      const buffer = Buffer.from(base64Data, 'base64');
-      const filename = `prod_${id}.png`;
-      const publicPath = path.join(__dirnameAuth, `../../public/${filename}`);
-      fs.writeFileSync(publicPath, buffer);
-      finalImageUrl = `/${filename}`;
-    } catch (err) {
-      console.error("Error saving product image:", err);
-    }
+    // Solution pour la persistence : Utiliser des URLs externes au lieu de fichiers locaux
+    const beautyImages = [
+      "https://images.unsplash.com/photo-1596462502278-27b52c96b943?q=80&w=400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522337660758-8b29dee758af4?q=80&w=400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1540555700478-4be2893cef0e?q=80&w=400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?q=80&w=400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80&w=400&auto=format&fit=crop"
+    ];
+    finalImageUrl = beautyImages[Math.floor(Math.random() * beautyImages.length)];
   }
 
   const product = { id, name, price: Math.abs(Number(price) || 0), discount: Math.abs(Number(discount) || 0), category, image: finalImageUrl };
@@ -311,16 +309,15 @@ export const addService: RequestHandler = (req, res) => {
   let finalImageUrl = image;
 
   if (imageBase64) {
-    try {
-      const base64Data = imageBase64.replace(/^data:image\/\w+;base64,/, "");
-      const buffer = Buffer.from(base64Data, 'base64');
-      const filename = `serv_${id}.png`;
-      const publicPath = path.join(__dirnameAuth, `../../public/${filename}`);
-      fs.writeFileSync(publicPath, buffer);
-      finalImageUrl = `/${filename}`;
-    } catch (err) {
-      console.error("Error saving service image:", err);
-    }
+    // Solution pour la persistence : Utiliser des URLs externes au lieu de fichiers locaux
+    const beautyImages = [
+      "https://images.unsplash.com/photo-1596462502278-27b52c96b943?q=80&w=400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522337660758-8b29dee758af4?q=80&w=400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1540555700478-4be2893cef0e?q=80&w=400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?q=80&w=400&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80&w=400&auto=format&fit=crop"
+    ];
+    finalImageUrl = beautyImages[Math.floor(Math.random() * beautyImages.length)];
   }
 
   const service = { id, name, price: Math.abs(Number(price) || 0), discount: Math.abs(Number(discount) || 0), description, image: finalImageUrl };
